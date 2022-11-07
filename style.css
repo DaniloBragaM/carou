@@ -147,7 +147,7 @@ footer{
     background-repeat: no-repeat;
 }
 /*para diferentes resoluções de tela*/
-@media (max-widht: 330px) {
+@media (max-widht: 300px) {
     .nav{
         width: 70%;
         padding-left: 10px;
