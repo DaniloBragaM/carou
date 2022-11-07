@@ -75,13 +75,13 @@ h2:hover{
     border-radius: 20px;
 }
 p{
-    font-size: 25px;
+    font-size: 30px;
     justify-content: space-evenly;
     gap: 2vw;
     padding: 0 2vw;
     text-align: center;
     line-height: 40px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Carou';
 }
 .apresentacao{ 
     padding-bottom: 100px;   
@@ -118,6 +118,9 @@ p{
     color: beige; 
     padding-left: 50px;
 }
+.local{
+    color: white;
+}
 .fotofundo{    
     background-image: url(./logo/fundofoto.jpg);
     color: beige;
@@ -151,9 +154,11 @@ footer{
     .nav{
         width: 70%;
         padding-left: 10px;
-         }
+    }
     iframe{
         width: 260px;
         height: 150px; 
-        }
+       
     }
+    
+}
