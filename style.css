@@ -146,3 +146,11 @@ footer{
     background-image: url(./logo/black-blue.jpg);
     background-repeat: no-repeat;
 }
+/*para diferentes resoluções de tela*/
+@media (max-widht: 330px) {
+    iframe{
+       width: 300px; 
+       padding-left: 10px;
+    }
+    
+}
